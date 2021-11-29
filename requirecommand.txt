@@ -1,0 +1,4 @@
+conda install -c conda-forge opencv
+conda install -c conda-forge imutils
+conda install -c anaconda pillow
+conda install -c anaconda requests
